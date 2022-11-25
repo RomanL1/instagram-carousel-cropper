@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+insta-cc/
+
+.DS_Store
+
+*.jpg
